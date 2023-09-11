@@ -27,7 +27,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://muchewadarpita.github.io/Authcom/taskpane.html" />
+        <SourceLocation DefaultValue="https://muchewadarpita.github.io/Authcom/src/taskpane/taskpane.html" />
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -103,10 +103,10 @@
           <bt:Image id="Icon.80x80" DefaultValue="https://muchewadarpita.github.io/Authcom/assets/logov1.svg" />
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="Commands.Url" DefaultValue="https://muchewadarpita.github.io/Authcom/commands.html" />
-          <bt:Url id="Taskpane.Url" DefaultValue="https://muchewadarpita.github.io/Authcom/taskpane.html" />
-          <bt:Url id="WebViewRuntime.Url" DefaultValue="https://muchewadarpita.github.io/Authcom/commands.html" />
-          <bt:Url id="JSRuntime.Url" DefaultValue="https://muchewadarpita.github.io/Authcom/launchevent.js" />
+          <bt:Url id="Commands.Url" DefaultValue="https://muchewadarpita.github.io/Authcom/src/commands/commands.html" />
+          <bt:Url id="Taskpane.Url" DefaultValue="https://muchewadarpita.github.io/Authcom/src/taskpane/taskpane.html" />
+          <bt:Url id="WebViewRuntime.Url" DefaultValue="https://muchewadarpita.github.io/Authcom/src/commands/commands.html" />
+          <bt:Url id="JSRuntime.Url" DefaultValue="https://muchewadarpita.github.io/Authcom/src/launchevent/launchevent.js" />
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="GroupLabel" DefaultValue="Contoso Add-in"/>
